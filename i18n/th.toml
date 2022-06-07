@@ -1,0 +1,45 @@
+[categories]
+other = "หมวดหมู่"
+
+[authors]
+other = "ผู้เขียน"
+
+[tags]
+other = "ป้ายกำกับ"
+
+[socialMedia]
+other = "สื่อสังคม"
+
+[latestPosts]
+other = "โพสต์ล่าสุด"
+
+[search]
+other = "ค้นหา ..."
+
+[noSearchResults]
+other = "ไม่พบผลลัพธ์"
+
+[olderPosts]
+other = "โพสต์เก่ากว่า"
+
+[newerPosts]
+other = "โพสต์ใหม่กว่า"
+
+[continueReading]
+other = "อ่านต่อ"
+
+[otherLanguages]
+other = "ภาษาอื่น ๆ"
+
+[readingTime]
+one = "อ่าน 1 นาที"
+other = "อ่าน {{.Count}} นาที"
+
+[tableOfContents]
+other = "สารบัญ"
+
+[series]
+other = "ซีรีส์"
+
+[archive]
+other = "ที่เก็บถาวร"
